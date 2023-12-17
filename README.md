@@ -1,4 +1,4 @@
-## sql-challenge
+### sql-challenge
 
 A research project about people whom a fictional company called Pewlett Hackard employed during the 1980s and 1990s.
 There are three parts to this repo.
