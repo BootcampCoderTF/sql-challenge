@@ -1,7 +1,7 @@
 -- Format the datestyle for the database to Month/Day/Year
 ALTER DATABASE "Pewlett Hackard (sql-challenge)" SET datestyle TO "ISO, MDY";
--- Create the tables:
 
+-- Create the tables:
 -- Create the Titles table first to avoid error
 CREATE TABLE titles (
     title_id VARCHAR(50) PRIMARY KEY,
