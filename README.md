@@ -14,3 +14,6 @@ Created a table schema for each of the six CSV files using SQL Query Tool in pgA
 ## Part 3 The Data Analysis:
 
 Created SQL queries using the SQL Query Tool in pgAdmin4 to answer 8 analysis questions of the newly created database.
+
+
+###### By Tafadzwa Fararira
